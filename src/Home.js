@@ -21,13 +21,13 @@ function Home() {
         />
         <Product
           id="12468910"
-          title="ULTRABOOST WEB DNA"
+          title="WEB DNA"
           price={190}
           image="  https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/51cdf085d8a54001ad52ad430109228e_9366/Ultraboost_Web_DNA_Shoes_Black_GY4173_01_standard.jpg"
         />
         <Product
           id="12986524"
-          title="ULTRABOOST CLIMACOOL"
+          title="CLIMACOOL"
           price={180}
           image="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/227646f91bed4a598924ae37012df828_9366/Ultraboost_Climacool_2_DNA_Shoes_Blue_GZ0441_01_standard.jpg"
         />
@@ -35,19 +35,19 @@ function Home() {
       <div className="home_row">
       <Product
           id="12023784"
-          title="LITE RACER ADAPT"
+          title="RACER ADAPT"
           price={46}
           image="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c364111c408340e3a73fade900fcb92e_9366/Lite_Racer_Adapt_3.0_Shoes_White_GY8580_01_standard.jpg"
         />
         <Product
           id="12468910"
-          title="ULTRABOOST MULTIX"
+          title="MULTIX"
           price={80}
           image="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b26af1889156457e9654adec012584a8_9366/Multix_Shoes_Brown_GY9642_01_standard.jpg"
         />
         <Product
           id="87654321"
-          title="TERREX SKYCHASER GORE-TEX"
+          title="TERREX"
           price={160}
           image="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bdfbb7ce380145e8b418adda00c42d20_9366/Terrex_Skychaser_GORE-TEX_2.0_Hiking_Shoes_Grey_GZ0320_01_standard.jpg"
         />
