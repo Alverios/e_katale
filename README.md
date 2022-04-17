@@ -1,4 +1,12 @@
 # Getting Started
+This is a sample project i made whilst learning Reactjs!
+It is a shopping app with a login, home and checkout Page.
+
+#Functionality.
+*Login supported by google firebase.
+*Add items to cart
+*Remove Items from Cart
+*Calculate price of items in cart.
 
 ## Available Scripts
 
